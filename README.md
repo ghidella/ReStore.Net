@@ -1,4 +1,4 @@
-# Project Name
+# ReStore.Net
 
 Web application under development with a React + Redux frontend and a .NET backend.
 
