@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import type { Product } from "./product";
+import type { Product } from "../models/product";
 
 function App() {
     const [products, setProducts] = useState<Product[]>([]);
