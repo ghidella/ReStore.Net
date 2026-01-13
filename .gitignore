@@ -484,5 +484,7 @@ $RECYCLE.BIN/
 *.swp
 API/appsettings.json
 
-# SLITE
+# SQLite
 *.db
+*.db-shm
+*.db-wal
